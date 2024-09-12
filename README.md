@@ -8,4 +8,3 @@ add_ace group.admin command.smite allow  # Allows admins to use the smite comman
 
 MUST HAVE
 ox_lib
-oxmysql
