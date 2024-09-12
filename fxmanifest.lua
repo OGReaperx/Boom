@@ -7,7 +7,6 @@ version '1.0.0'
 
 shared_scripts {
 	'@ox_lib/init.lua',
-    '@oxmysql/lib/MySQL.lua',
     'config.lua',
 }
 
@@ -21,7 +20,6 @@ server_scripts {
 }
 
 dependencies {
-    'oxmysql',
     'ox_lib'
 }
 
